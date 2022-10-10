@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<listings>
+  <listing>
+    <category>Apartments for Rent</category>
+    <description>City Center Wichita Falls LLC</description>
+    <id>589</id>
+    <title>City Center Wichita Falls LLC</title>
+    <url>http://myirent.com</url>
+    <address>728 Indiana Ave</address>
+    <city>Wichita Falls</city>
+    <country>TX</country>
+    <state>US</state>
+    <zip_code>76301</zip_code>
+    <agent>Chelsey Pirkle</agent>
+    <agent_email>chelsey@bigbluedowntown.com</agent_email>
+    <agent_phone>9406421404</agent_phone>
+    <agent_url/>
+    <amenities/>
+    <balconies/>
+    <bathrooms>0</bathrooms>
+    <bedrooms>0</bedrooms>
+    <broker>Chelsey Pirkle</broker>
+    <broker_email>chelsey@bigbluedowntown.com</broker_email>
+    <broker_phone>9406421404</broker_phone>
+    <broker_url/>
+    <condition>existing</condition>
+    <create_time>2021-01-20T20:57:56.865Z</create_time>
+    <currency>USD</currency>
+    <event_date/>
+    <expire_time/>
+    <facing/>
+    <fee>no</fee>
+    <furnished>No</furnished>
+    <image_url>https://myirent.com/rent/unitPhotos/1003/CityCenter-20-1.jpg|https://myirent.com/rent/unitPhotos/1003/CityCenter-20-2.jpg|https://myirent.com/rent/unitPhotos/1003/CityCenter-20-3.jpg|https://myirent.com/rent/unitPhotos/1003/CityCenter-20-4.jpg|https://myirent.com/rent/unitPhotos/1003/CityCenter-20-5.jpg|https://myirent.com/rent/unitPhotos/1003/CityCenter-20-6.jpg|https://myirent.com/rent/unitPhotos/1003/CityCenter-20-7.jpg|https://myirent.com/rent/unitPhotos/1003/CityCenter-20-8.jpg|https://myirent.com/rent/unitPhotos/1003/CityCenter-20-9.jpg|https://myirent.com/rent/unitPhotos/1003/CityCenter-20-10.jpg|https://myirent.com/rent/unitPhotos/1003/CityCenter-20-11.jpg|https://myirent.com/rent/unitPhotos/1003/CityCenter-20-12.jpg|https://myirent.com/rent/unitPhotos/1003/CityCenter-20-13.jpg</image_url>
+    <ip_address>65.175.100.122</ip_address>
+    <lot_size/>
+    <lot_size_units>acres</lot_size_units>
+    <mls_id/>
+    <price>2500.00</price>
+    <registration>no</registration>
+    <seller_email>chelsey@bigbluedowntown.com</seller_email>
+    <seller_name>Chelsey Pirkle</seller_name>
+    <seller_phone>9406421404</seller_phone>
+    <seller_type>by owner</seller_type>
+    <seller_url/>
+    <square_feet/>
+    <vastu_compliant/>
+    <year/>
+  </listing>
+</listings>

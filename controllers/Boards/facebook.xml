@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<listings>
+  <title>iRent Feed</title>
+  <link rel="self" href="https://www.myirent.com"/>
+  <listing>
+    <home_listing_id>589</home_listing_id>
+    <name>City Center Wichita Falls LLC</name>
+    <availability>for_rent</availability>
+    <description>City Center Wichita Falls LLC</description>
+    <address format="simple">
+      <component name="addr1">728 Indiana Ave</component>
+      <component name="city">Wichita Falls</component>
+      <component name="region">TX</component>
+      <component name="country">United States</component>
+      <component name="postal_code">76301</component>
+    </address>
+    <image>
+      <url>https://myirent.com/rent/unitPhotos/1003/CityCenter-20-1.jpg</url>
+    </image>
+    <image>
+      <url>https://myirent.com/rent/unitPhotos/1003/CityCenter-20-2.jpg</url>
+    </image>
+    <image>
+      <url>https://myirent.com/rent/unitPhotos/1003/CityCenter-20-3.jpg</url>
+    </image>
+    <image>
+      <url>https://myirent.com/rent/unitPhotos/1003/CityCenter-20-4.jpg</url>
+    </image>
+    <image>
+      <url>https://myirent.com/rent/unitPhotos/1003/CityCenter-20-5.jpg</url>
+    </image>
+    <image>
+      <url>https://myirent.com/rent/unitPhotos/1003/CityCenter-20-6.jpg</url>
+    </image>
+    <image>
+      <url>https://myirent.com/rent/unitPhotos/1003/CityCenter-20-7.jpg</url>
+    </image>
+    <image>
+      <url>https://myirent.com/rent/unitPhotos/1003/CityCenter-20-8.jpg</url>
+    </image>
+    <image>
+      <url>https://myirent.com/rent/unitPhotos/1003/CityCenter-20-9.jpg</url>
+    </image>
+    <image>
+      <url>https://myirent.com/rent/unitPhotos/1003/CityCenter-20-10.jpg</url>
+    </image>
+    <image>
+      <url>https://myirent.com/rent/unitPhotos/1003/CityCenter-20-11.jpg</url>
+    </image>
+    <image>
+      <url>https://myirent.com/rent/unitPhotos/1003/CityCenter-20-12.jpg</url>
+    </image>
+    <image>
+      <url>https://myirent.com/rent/unitPhotos/1003/CityCenter-20-13.jpg</url>
+    </image>
+    <listing_type>for_rent_by_owner</listing_type>
+    <num_baths>0</num_baths>
+    <num_beds>0</num_beds>
+    <num_units>1</num_units>
+    <price>2500.00</price>
+    <property_type>apartment</property_type>
+    <url>https://myirent.com</url>
+  </listing>
+</listings>

@@ -1,0 +1,44 @@
+const express =  require('express');
+const router = express.Router();
+
+const companyController = require('../../controllers/Company/company');
+
+router.get('/get/:cID', companyController.getDetails);
+router.get('/:cID/LeadSource', companyController.getLeadSource);
+router.get('/currencies', companyController.getCurrencies);
+router.get('/billingNotification/:cID', companyController.getBillingNotification);
+router.get('/creditCard/:cID', companyController.getCompanyCC);
+router.get('/bank/:cID', companyController.getCompanyBank);
+router.post('/updDetails', companyController.updDetails);
+router.post('/updSettings', companyController.updSettings);
+router.post('/updAutoBill', companyController.updAutoBill);
+router.post('/updCC', companyController.updCompCC);
+router.post('/updBank', companyController.updCompBank);
+router.post('/verifyBank', companyController.verifyBank);
+router.post('/updPaymentMethod', companyController.updPaymentMethod);
+router.get('/properties/:cID', companyController.getProperties);
+router.get('/securityLevels', companyController.getSecurityLevels);
+router.get('/users/:cID', companyController.getUsers);
+router.post('/addUser', companyController.addUser);
+router.get('/deleteUser/:uID/:cID', companyController.deleteUser);
+router.post('/updUser', companyController.updUser);
+router.get('/owners/:cID', companyController.getOwners);
+router.post('/addOwner', companyController.addOwner);
+router.get('/deleteOwner/:oID', companyController.deleteOwner);
+router.post('/updOwner', companyController.updOwner);
+router.get('/getJournalEntries/:pID', companyController.getJournalEntries);
+router.get('/getJournalType', companyController.getJournalType);
+router.post('/addJournal', companyController.addJournal);
+router.get('/deleteJournal/:jID', companyController.deleteJournal);
+router.get('/getJournalByID/:jID', companyController.getJournalByID);
+router.post('/editJournal', companyController.editJournal);
+router.get('/getMakeReadyTasks/:pID', companyController.getMakeReadyTasks);
+router.get('/deleteMakeReady/:mkID', companyController.deleteMakeReady);
+router.post('/addMakeReadyTask', companyController.addMakeReadyTask);
+router.get('/getMakeReadyTaskByID/:mkID', companyController.getMakeReadyTaskByID);
+router.post('/updMakeReadyTask', companyController.updMakeReadyTask);
+router.get('/getGLCategories/:pID', companyController.getGLCategories);
+router.get('/deleteGLCategories/:payID', companyController.deleteGLCategories);
+router.post('/addGLCategory', companyController.addGLCategory);
+
+module.exports = router;
